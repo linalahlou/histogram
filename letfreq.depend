@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560169072 source:h:\c programs\exercisea\letfreq\main.c
+	<stdio.h>
+	<ctype.h>
+
+1560193869 source:\\icnas3.cc.ic.ac.uk\ll9318\c programs\exercisea\letfreq\main.c
+	<stdio.h>
+	<ctype.h>
+
